@@ -60,9 +60,9 @@ ID,Text,English Translations,Annotated Emotions,Source
 59,"नहीं-नहीं-नहीं, नहीं! कौन, तुम किस बारे में बात कर रहे थे?","No, no, no, no! Who, what were you talking about?",Surprise,Hindi_Sentiment_Dataset
 60,"नहीं, मैं नहीं जानता, मैं वास्तव में नहीं जानता","No, I don't know, I really don't know.",NULL,Hindi_Sentiment_Dataset
 61,मैं कभी करता हूँ।,I do sometimes.,NULL,Hindi_Sentiment_Dataset
-62,क्रिस कहते हैं कि वे बार बंद कर रहे हैं।,Chris says they're closing the bar.,Surprise,Hindi_Sentiment_Dataset
+62,क्रिस कहते हैं कि वे बार बंद कर रहे हैं।,Chris says they're closing the bar.,NULL,Hindi_Sentiment_Dataset
 63,कदापि नहीं!,Never!,Surprise,Hindi_Sentiment_Dataset
-64,बस कॉफी! अब हम कहाँ बाहर hang-out करने जा रहे हैं?,Just coffee! Where are we going to hang out now?,NULL,Hindi_Sentiment_Dataset
+64,बस कॉफी! अब हम कहाँ बाहर घूमना करने जा रहे हैं?,Just coffee! Where are we going to hang out now?,NULL,Hindi_Sentiment_Dataset
 65,मुझे मिला.,I got it.,NULL,Hindi_Sentiment_Dataset
 66,तुम धोखे में पड़ो!,You're fooled!,NULL,Hindi_Sentiment_Dataset
 67,"उम्-अम्, हाँ सही!","Um-um, yeah right!",NULL,Hindi_Sentiment_Dataset

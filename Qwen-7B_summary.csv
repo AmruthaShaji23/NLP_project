@@ -1,0 +1,4 @@
+Model,Language,Accuracy,Correct,Total
+Qwen-7B,Hindi,51.4%,37,72
+Qwen-7B,Dutch,64.4%,56,87
+Qwen-7B,Romanian,52.7%,69,131

@@ -1,0 +1,4 @@
+Model,Language,Accuracy,Correct,Total
+TinyLlama,Hindi,18.1%,13,72
+TinyLlama,Dutch,17.2%,15,87
+TinyLlama,Romanian,35.9%,47,131

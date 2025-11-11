@@ -1,0 +1,4 @@
+Model,Language,Accuracy,Correct,Total
+Gemma-2B,Hindi,29.2%,21,72
+Gemma-2B,Dutch,1.1%,1,87
+Gemma-2B,Romanian,24.4%,32,131

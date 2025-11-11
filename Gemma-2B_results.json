@@ -1,0 +1,1769 @@
+[
+  {
+    "model": "Gemma-2B",
+    "language": "Hindi",
+    "accuracy": 29.166666666666668,
+    "correct": 21,
+    "total": 72,
+    "results": [
+      {
+        "text": "मैंने सपने में देखा कि मेरे कमरे में किसी ने कचरा फैला दिया ",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "घने बादल और तेज हवाएं देखकर लग रहा है कि कहीं आँधी-तूफान ना ",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "बेकिंग करने में मुझे बहुत सुकून मिलता है !",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "यह कंगन बहुत खूबसूरत है, पर हमारे बजट में नहीं है।",
+        "true": "Sadness",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "यहु बहुत मुश्किल काम है।  ",
+        "true": "Anger",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "वाह!! तुम्हारा भी पसंदीदा रंग नीला है?",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "ये कुत्ता का मुंह बहुत बड़ा है, मुझे डर लग रहा ह।",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "आज का दिन अच्छा दिन है क्योंकि आज सूरज है।",
+        "true": "Joy",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "कैंटीन में सफाई की बिल्कुल भी परवाह नहीं की जाती, वहां अक्सर",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "अत्याधुनिक कैमरों का घटता आकार, उनके दुरूपयोग को लेकर मुझे आ",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "मेरी पसंदीदा टीचर अच्छे हैं, सालों से यहाँ पढ़ा रहे हैं ।",
+        "true": "Joy",
+        "predicted": "**Answer:",
+        "correct": false
+      },
+      {
+        "text": "जब तुम्हें कुछ चाहिए होता है तभी तुम्हें मेरी याद आती है, ले",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "अरे वाह ! पेस्ट्री के इतने सारे नए फ्लेवर! मैंने इससे पहले क",
+        "true": "Surprise",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "बीमारी के बाद से मुझे अपनी ही पसंदीदा चाय की गंध बेहद अप्रिय",
+        "true": "Sadness",
+        "predicted": "Sadness",
+        "correct": true
+      },
+      {
+        "text": "यह फिल्म इतनी डरावनी थी कि इसे देखकर मेरी नींद ही उड़ गई।",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "अरे ! ये कौन सी दवा डाल दी मेरी आँखों में ?!! मेरी तो आँखें ",
+        "true": "Anger",
+        "predicted": "**The",
+        "correct": false
+      },
+      {
+        "text": "खेत में धान की रोपाई के समय अचानक ज़हरीला सांप दिख गया, हम स",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "वाह!! तुम्हारा भी पसंदीदा रंग नीला है?",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "स्कूल टूर के दौरान मुझे ट्रेन में मेरे दोस्तों से दूर की सीट",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "मैंने कल रात पूरी किताब पढ़ ली।",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "आज अगर मैंने घर की सफाई ठीक से नहीं की, तो माँ बहुत नाराज हो",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "कितनी बार कहा, पर कोई भी सामान सही जगह नहीं रखता! हद हो गयी!",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "ये ड्रेस दिखने में तो ठीक है पर इसका कपड़ा बहुत ही बेकार है!!",
+        "true": "Surprise",
+        "predicted": "Disgust",
+        "correct": false
+      },
+      {
+        "text": "पक्की नौकरी न होने के कारण, हर छः महीने में निकाल दिए जाने क",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "ये चुनौतीपूर्ण स्थितियाँ मेरे भीतर गहरी आशंका और भय पैदा कर ",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "माँ के दिए मेरे पसंदीदा टी-सेट के टूट जाने से मेरे दिल को बह",
+        "true": "Sadness",
+        "predicted": "Sadness",
+        "correct": true
+      },
+      {
+        "text": "पुलिस ने निर्दोष लोगों पर गोलियाँ चलवा दीं, उनका यह कृत्य अत",
+        "true": "Disgust",
+        "predicted": "Sadness",
+        "correct": false
+      },
+      {
+        "text": "आज स्कूल के काम में दिन भर मुझे कोई ना कोई अड़चन आती रही, बहु",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "आज मैंने अपने दोस्तों के साथ ऑनलाइन गेम खेला।",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "तुमहारी इस घिनौनी हरकत से परिवार का नाम मिट्टी में मिल गया।",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "मुल्जिमों को पकड़े जाने से अब मेरे क्षेत्र में सुरक्षा का मा",
+        "true": "Joy",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "बेहतर सेवा देने की आड़ में, बड़ी कंपनियां हमारी निजता का उल्",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "यह कंगन बहुत खूबसूरत है, पर हमारे बजट में नहीं है।",
+        "true": "Sadness",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "हर चीज़ महंगी हो गई है, अब मनपसंद शॉपिंग करना मुश्किल है।",
+        "true": "Sadness",
+        "predicted": "Sadness",
+        "correct": true
+      },
+      {
+        "text": "मेरी वॉशिंग मशीन बार-बार खराब हो रही है , मन तो करता है इसे ",
+        "true": "Anger",
+        "predicted": "Anger",
+        "correct": true
+      },
+      {
+        "text": "कल का सपना काफी डरावना था, गुंडों से लड़ते हुए मैं खाई में गि",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "नकली दवाओं के कारण मेरा स्वास्थ्य बिगड़ा है, दोषियों को सख्त",
+        "true": "Anger",
+        "predicted": "Anger",
+        "correct": true
+      },
+      {
+        "text": "आज भाभी से मछली की करी बहुत खट्टी हो गयी, किसी को भी पसंद नह",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "पिताजी के स्वास्थ्य को लेकर मन में अजीब सा खालीपन है।",
+        "true": "Sadness",
+        "predicted": "Sadness",
+        "correct": true
+      },
+      {
+        "text": "रंग-बिरंगे दीये घर को बहुत सुंदर बना रहे हैं।",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "मैं तुमसे नहीं माँगता!",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "सचमुच?",
+        "true": "Surprise",
+        "predicted": "Surprise",
+        "correct": true
+      },
+      {
+        "text": "लेकिन फिर कौन? मैं पिछले महीने के साथ बाहर गया था रेस्तरां?",
+        "true": "Surprise",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "तुम्हें पता है? इसे भूल जाओ!",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "नहीं-नहीं-नहीं, नहीं! कौन, तुम किस बारे में बात कर रहे थे?",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "कदापि नहीं!",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "ओह भगवान्, ओह भगवान्! गरीब मोनिका!",
+        "true": "Surprise",
+        "predicted": "Sadness",
+        "correct": false
+      },
+      {
+        "text": "ओह, आप को एक अँगाड़ की जरूरत है? आप मुझे कुछ भी नहीं लाना है",
+        "true": "Surprise",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "यह बहुत अच्छा है, लेकिन आप अभी शौचालय पर नहीं होना चाहिए?",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "तुम्हें क्या हो गया है?",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "अच्छी तरह से, मैं-मैं अपने पेट में इस अंधापन दर्द था जब मैं ",
+        "true": "Sadness",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "यह हर्निया की तरह लगता है. आपको डॉक्टर के पास जाना है!",
+        "true": "Surprise",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "मैं जानता था कि वह वह है!",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "इस रेत के साथ क्या है?",
+        "true": "Surprise",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "ठीक है, वहाँ अंधा आदमी को देखो? मैं उसके सिर में बाद मेंbash",
+        "true": "Anger",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "ओह, मेरा बड़ा दृश्य आ रहा है. बड़ा दृश्य आ रहा है.",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "अरे, मैं सिर्फ देख नहीं सकता। यह बहुत डराता है!",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "ओह हाँ अच्छी तरह से, आप मुझे जानते हैं, बच्चे, जिम्मेदारियाँ",
+        "true": "Sadness",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "पिज़ा डिलिवरी!",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "मैं इसे प्राप्त करूँगा! मैं इसे प्राप्त करूँगा!",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "हमारे पास इतना साझी है!",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "वह सैंडविच पसंद करता है, खेल, हालांकि वह एक मेटfan है, अब को",
+        "true": "Surprise",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "ओह मेरे भगवान! आप बच्चों के बारे में बात कर रहे हैं सुनो. ओह",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "वह ऐसा कैसे करता है?",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "क्या आप उसे देखेंगे? वह बहुत शांत है।",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "ओह! क्या क्या क्या!...हाई.",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "तुमसे क्या हो रहा है?",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "क्या तुम पागल हो? मेरा मतलब है जोय, तुम्हें मार डालेगा, वह व",
+        "true": "Fear",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "ठीक है! आप नहीं लगता कि मैंने उस पर सोचा है?",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "तुम कैसे नहीं जानते कि कौन है?",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "मेरा मतलब है कि अविश्वसनीय है।",
+        "true": "Surprise",
+        "predicted": "**Answer:",
+        "correct": false
+      },
+      {
+        "text": "मैं क्या पहनना चाहिए, अब मैं सभी चिंतित हूँ।",
+        "true": "Fear",
+        "predicted": "Sadness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "model": "Gemma-2B",
+    "language": "Dutch",
+    "accuracy": 1.1494252873563218,
+    "correct": 1,
+    "total": 87,
+    "results": [
+      {
+        "text": "Die van de magistraet van den Briel zijn hier bij ons gewees",
+        "true": "Anger",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "... welcker bloet wy versoeken willen ende wreken an de moer",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Die schelmen pleegden de gruweldaden niet alleen uit rooflus",
+        "true": "Disgust",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "…het anders te beduchten staet dat zij haer noch verder in d",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "wij beducht zijn dat men dezelve terstond zoude mogen schick",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "…hunne blijdschap over dit voornemen te kennen, met belofte ",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Het verwonderde de Generale Staten niet weinig, dat voor zoo",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "**…**deel gestorven, geschoten en jammerlijk mishandeld, hun",
+        "true": "Sadness",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "hun leedwezen over dien toestand te kennen",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik wil, dat gij ze u herinnert,” beval de hertog, met dreig",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Maar, bij God,” ging hij driftiger voort, “zij zullen buige",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Hoor mij, en beef, verrader!” sprak hij, niet driftig, maar",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…als ik op één na al de Nederlanders had opgehangen, en die",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Op die wijze prostitueert men mij.”",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“De Teergeliefde zal woedend op mij zijn, wanneer hij mijn a",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Die informatiën, die mij zoo met horten en stooten en gebre",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik heb er Vrijdag ernstig … over geklaagd.”",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Men heeft het daar fijnjes overlegd om mij bij de burgerij ",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Hij was zeer ontstemd dat de Stadhouder had durven weigeren ",
+        "true": "Anger",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "“Is elk raadsman van den Teergeliefden niet een Hertog! Hoe ",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Niet?” sprak ALVA, dreigend zijne wenkbraauwen te zamen tre",
+        "true": "Anger",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "“Men laat ons hier volkoomen onkundig omtrent den waaren sta",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Een schoone ijver!” viel ALVA hem in de reden. “Hebt gij mi",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik verachte hen, die geen moeds of eerlijkheids genoeg geha",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Zoudt gij dan toegevendheid willen, jegens schendige misdad",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Doch de fatsoenlijken alhier gedragen zig meestendeels zeer",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Deze afschuwelijke klopjacht begon in het jaar 1730.”",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Het is ellendig, dat de mensen zoo maar zonder plan heen we",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik voele eenen onoverkomelijken weerzin om tot dien of eeni",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…de kleingeestige zucht … om Van der Capellen te weren en d",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Mijn broeder, … is eilaas! een boos mensch, die … niet zoud",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…duisterlingen, die steeds beezig zijn ons land ongelukkig ",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Van Spaan uit zijn verontwaardiging over het opheffen van he",
+        "true": "Disgust",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "“…liever dat ik de Republiek met eere geheel zien te gronde ",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“daar niets minder toe noodig is dan woede – eene passie die",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik vreeze wel eens,” antwoordde BARLAIMONT op schroomvallig",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“De schrik zet overeind elks haar in al uw straten.”",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Eene huivering overviel zelfs de beide koningsvrienden bij ",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…als uit de lucht gevallen wierp GIJS plotseling zijn … bli",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Vertoon je toch niet op straat en kom niet terug naar Zwoll",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…’t is te vreezen, dat zij zulks … bij gunstige gelegenheid",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“De kerkhofbomen bang van sidderen, los van wortel.”",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Die nadeelige tijdingen … maaken hier eene menigte menschen",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Wie ijst … bij zulk een berg van puin?”",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Te Kampen was het stadsbestuur bevreesd, dat de Portugeesch",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "“…zal het de Hofpartij schrikkelijk in het naauw brengen als",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…alle … deliberatien … omtrent die justificatie … (zijn) ge",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik was uitgelaten van vreugde, toen ik voorleden voorjaar d",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik kan … niet zeggen hoe zeer ik verheugd ben in UWelEd. ju",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik zie ook met pleizier, dat UWelEd. Provincie het Gedrogt ",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Het geeft mij intussen een genoeglijk vooruitzigt, dat wij ",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Gijs verheugde zich in stilte en verwachtte een woord van lo",
+        "true": "Joy",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "“Des avonds zat GIJS DIDERIKS met zijne zuster MARGARETHA op",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Inleggende zal U stof tot genoegen geeven. Vivat Zeeland!”",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Wij hebben dien mooien vrijer eene soep gekookt,” zeide MAR",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…hij wreef zich vergenoegd de handen.”",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Viel de Natie in dat idée, met hart, met lighaam en ziel za",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“O, was het somer; ik vloog over om UEd. de zaak der Vrijhei",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Zelfs de burgers hier in Zwol verheugen zich over die geluk",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Gelukkig komt deeze brief nog even tijds genoeg om daar een",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Het pleizier van mij met UEd. te onderhouden heeft me doen ",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Nimmer werd ik aangenaamer verrascht dan heden door UWelEdG",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…dewelken van zulk een inhoud zijn, dat men er over zal ver",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Als van den donder getroffen stond de lakenkooper daar.”",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik denke, dat zij zich hartelijk over het gedrogt zullen ve",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Het heeft ons niet weinig verwonderd, dat ze het ultimatum ",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Met verwondering zie ik den inhoud van het bewuste addres. ",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…dat te verwonderen is, geopperd word door lieden, die zig ",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…dat het wonder is, dat nog imand kan resolveeren, om zig o",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Wie weet, of Madame Roiale nog niet eens onverwagt op het t",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Wat hoor ik met verdriet? Wat onheil treft uw kerk?”",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Hij uit zijn verwondering over de houding der Holl. Aristocr",
+        "true": "Surprise",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Van Spaan verwondert zich over Gelderlands antwoord op die m",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Maar juist op dit tijdstip ontdekt men eene explicatio auth",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Ik Klasien, je geliefde vrouw, laat je weten … dat ik helem",
+        "true": "Sadness",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "“Ach, lieve oom,” sprak GEERTRUIDA weenende, “wij hopen dat ",
+        "true": "Sadness",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "“‘En gij waart mij een lieve, goede dochter,’ antwoordde de ",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“En ons Margje is van een dood kind bevallen.”",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Wij bevinden ons tans in eenen facheusen toestand… ik heb w",
+        "true": "Sadness",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "“De wolken dik van stof, gestegen tot de lucht, bedrøeven lu",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Wie … jammert niet bij zulk een berg van puin?”",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Moeder kan verdriet niet meer schrijven…”",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“ik … ben zodanig gedecourageerd, dat ik nooit zouw overgaan",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…hoe ellendig ik ben kan ik allemaal niet schrijven…”",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“…een tragisch lot wachtte: ze worden beide ter dood veroord",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Door zulk een naar geluid besterft onze IJsselstroom.”",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "“Wat hoor ik met verdriet? Wat onheil treft uw kerk?”",
+        "true": "Sadness",
+        "predicted": "Please",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "model": "Gemma-2B",
+    "language": "Romanian",
+    "accuracy": 24.427480916030532,
+    "correct": 32,
+    "total": 131,
+    "results": [
+      {
+        "text": "am visat niste chestii ciudate pe care efectiv nu pot sa le ",
+        "true": "Fear",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Ce surpriza Miai inseninat ziua Ce invitata minunata Ai ince",
+        "true": "Joy",
+        "predicted": "Surprise",
+        "correct": false
+      },
+      {
+        "text": "O ador pe <|PERSON|> O urmaresc de multi ani pe youtube inst",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Pericolul nuclear ascuns in vazul tuturor International",
+        "true": "Fear",
+        "predicted": "Surprise",
+        "correct": false
+      },
+      {
+        "text": "Asa este Din pacate Nu se vad partile rele din Dubai Locuies",
+        "true": "Disgust",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "Efectele încălzirii globale în 2020 România cea mai mare sec",
+        "true": "Fear",
+        "predicted": "**Answer:",
+        "correct": false
+      },
+      {
+        "text": "Daca si totusi nu sunt de acordSuna ca o razbunare Nu am inc",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Îți mulțumesc că Ești si ca ești si Fain si Simplu 🙏💯👏",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Măcar de la <|PERSON|>  scapi fără amendă",
+        "true": "Surprise",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Franţa este ameninţată de secetă",
+        "true": "Fear",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "O Doamna in adevaratul sens al cuvantuluiun model de conduit",
+        "true": "Joy",
+        "predicted": "❤",
+        "correct": false
+      },
+      {
+        "text": "Pentru a se victimiza iae <|PERSON|> da share acestui mesaj ",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Emisiune la superlativ ca toate celelalte de altfel Un invit",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Mulțumesc mult pentru acest episod minunat Am multe de învăț",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Febra aurului Război între preoți și reprezentanți ai statul",
+        "true": "Disgust",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "Felicitari Recorder Cei mai buni Jurnalisti",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Salut din Germania🙋🏻‍♀️ Ne bucurăm si va mulțumim că ne post",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "A fost genial <|PERSON|> ești woaw maxima recunoștință pentr",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Am un vecin care locuiește singur 94 de ani Cardiopathic Var",
+        "true": "Joy",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "Surse Marea surpriză din Bucureşti Ce fief PSD ar putea fi c",
+        "true": "Surprise",
+        "predicted": "Surprise",
+        "correct": true
+      },
+      {
+        "text": "Un om care merita tot respectul 💐💐💐",
+        "true": "Joy",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "E o emisiune foarte frumoasa eu nu ma prea uit la televizor ",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "China pune un nou oraş în carantină după o creştere alarmată",
+        "true": "Fear",
+        "predicted": "Sadness",
+        "correct": false
+      },
+      {
+        "text": "Disperare maxima in PSD se pare",
+        "true": "Disgust",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Te dezumanizeaza ca om Eu nici cu carantina din Romania nu a",
+        "true": "Anger",
+        "predicted": "Sadness",
+        "correct": false
+      },
+      {
+        "text": "Eugenia <|PERSON|> o profesionista desăvârșită cu invitați d",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Daca nu au un sindicat al lor au scris si ei ce le a trecut ",
+        "true": "Anger",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Ar trebui sa închide granița că ne vin toți infectați in țar",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Directorul pus de <|PERSON|> la Colentina ii da afara pe doc",
+        "true": "Anger",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "Doamneeee cum vorbește omul ăsta <|PERSON|> e demențial Podc",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Să vă fie rușine nu fac cemi spuneți voi",
+        "true": "Anger",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Mesajul unui medic militar pentru cei care nu cred în COVID ",
+        "true": "Fear",
+        "predicted": "Sadness",
+        "correct": false
+      },
+      {
+        "text": "Seară bună Vă urmăresc cu mare atenție",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Cat de frumos vorbeste despre noua lui familie Foarte emotio",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "ce sa stie asta cand inca face scoala online",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "De plimbare prin centrul Bucurestiului si sa cumpar flori de",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Tresar de fiecare dată când îmi aduc aminte de cât de rece e",
+        "true": "Disgust",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Ce se mai fura in Romania",
+        "true": "Anger",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "Biserica Ortodoxă Română vinde şi asigurări RCA",
+        "true": "Disgust",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "Inteligenta frumusețe blândețedoamna <|PERSON|> să vă țină b",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "In primele luni de sarcina eram asa emotiva 🥰🥰 Mia placut mu",
+        "true": "Joy",
+        "predicted": "🥰",
+        "correct": false
+      },
+      {
+        "text": "Am abandonat vizionarea din cauza reclamelor Prea multe recl",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Autoritățile din Timiș propun ca Făgetul să intre în caranti",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "a aparut podcastul acesta din nimic asa miati facut ziua mai",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Un invitat mai savuros decat <|PERSON|> nici ca se putea as ",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "ALARMANT Număr foarte mare de infectări cu coronavirus în ul",
+        "true": "Fear",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "DNA a constituit un nou dosar penal la Posta Romana in urma ",
+        "true": "Disgust",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Cutremur de 56 grade resimtit in Romania",
+        "true": "Fear",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "Ai grijă Mâine vei fi transformat în ceea ce ești acum de că",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Puteti merge si in vizita pe la laboratoarele de la politehn",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Mesajul fotbalistului bătut și jefuit în propria casă ” A fo",
+        "true": "Fear",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Casa triungiulară de la Alba Iulia cea mai frumoasă din Tran",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Ce diferență sa faca dacă oamenii nu mai ies vii de la ATI C",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Fotografii cu incendiile din Războiul din Golf care au trans",
+        "true": "Fear",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "WOW Astăzi sunt cele mai multe cazuri de coronavirus de la î",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "Mulțumesc pentru inima deschisă <|PERSON|> ❤",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Orice om îi este frică de 4 asasini",
+        "true": "Fear",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Oameni minunati si frumosi va iubim",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Paranoia este un proces de gândire puternic afectat de anxie",
+        "true": "Sadness",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "Accept dar nu sunt de acord cu atac subtil la adresa lui <|P",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "<|PERSON|> e puternică inteligentă E important să aibă sănăt",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Lui <|PERSON|> nu îi place să audă că e dublu infractor",
+        "true": "Disgust",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "<|PERSON|> un actor pentru o vesnicie un gigant o bucurie de",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "News Alert Poziția oficială a KLM la amenințarea cu bombă pe",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "<|PERSON|> este un om extraordinar cu o energie pozitiva Ar ",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Un omperfect Asta este o r a r a perfectiuneBravo Aceea <|PE",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Totu pentru putere eu cred că 20 de pușcărie e puțin Țara e ",
+        "true": "Anger",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "Ce OM exceptional Lumea nu trebuie inteleasa ci iubita <|PER",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Wow Fără cuvinte Acest podcast chiar mia dat de gândit la și",
+        "true": "Joy",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Pandemia de coronavirus va provoca o foamete de „proporții b",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Trageti niste cadre extraordinare montajul excelent Felictar",
+        "true": "Disgust",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "<|PERSON|> Revenirea economică în V o iluzie România se află",
+        "true": "Anger",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "„Mesajele lui <|PERSON|> au fost extrem de încurajatoare Nea",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Am găsit intervievatorul foarte agasant Tot respectul meu do",
+        "true": "Anger",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "Istoria se repetă Ce părere are şeful armatei britanice desp",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Clipe de coșmar pentru un din Tiraspol Automobilul pe care a",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "Vreau sa va mulțumesc pentru acest episod un invitat special",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Apelul disperat al unui medic internat cu coronavirus „E cum",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "Primăria Capitalei si primariile de sector au epuizat spații",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Felicitări Oamenii cu suflet MARE mulțumesc",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Suntem prea săraci ca sa ne permitem sa susținem masurile de",
+        "true": "Anger",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Ar fi foarte frumoasa o continuare La fel ca episodul cu <|P",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "PERICOL MAJOR aproape de România <|PERSON|> semnal de alarmă",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "Am pierdut un tenis in vama ",
+        "true": "Sadness",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "azi întro ora am primul date ever cu un tip care e mai soft ",
+        "true": "Fear",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Asa arata Eleganta si Bunul simt Felicitari frumoasa Doamna ",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Mai mulți șoferi șiau distrus mașinile după ce au circulat p",
+        "true": "Anger",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "☆︎ Pădurea Radovan din anii 40 locuitorii vorbesc despre fan",
+        "true": "Fear",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Bătaie în şcoală live pe Facebook",
+        "true": "Disgust",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Controlorii de bilete din Cluj vor purta camere video",
+        "true": "Surprise",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Italian in stare critica la spital dupa ce a fost batut in t",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "România ar fi naturalizat un luptător ISIS Acuze grave la ad",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "Nu ar fi rău să mai vedem asemenea cetățeni",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Numărul de infectați cu noul coronavirus crește alarmant în ",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "Super tare podcastul Cu cât ascult mai multe îmi dau seama c",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "FOTOVIDEO Dezastru după poluarea de pe râul Lăpuş",
+        "true": "Sadness",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Huawei România se declară „surprinsă” și „profund îngrijorat",
+        "true": "Disgust",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "O placere să vă ascult Singuri ajungem mai repede dar împreu",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "De ce iubește și urăște România manelele cu atâta înverșunar",
+        "true": "Disgust",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "În plan personal cel mai tare mie teamă de locurile în care ",
+        "true": "Fear",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Draga <|PERSON|> sa ti dea <|PERSON|> sanatate si putere de ",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "ah cand a afus o colega bete din alea de lumineaza in intjne",
+        "true": "Fear",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Huawei pare să dea o mare palmă Autorităților Americane vânz",
+        "true": "Surprise",
+        "predicted": "Surprise",
+        "correct": true
+      },
+      {
+        "text": "Schimbare URIASA ce se va Intampla de la 1 Februarie",
+        "true": "Surprise",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "Semafoarele inteligente din Timișoara ”au murit” din nou Hao",
+        "true": "Anger",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Explozie nucleara Rusia Cum ne protejam de radiatii",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "Artă contemporană din restaurantul Parlamentului României",
+        "true": "Disgust",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Incendiul care a poluat miercuri Cum a ajuns ferma de porci ",
+        "true": "Anger",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Miau dat lacrimile citind ce ai scris ❤",
+        "true": "Joy",
+        "predicted": "NULL",
+        "correct": false
+      },
+      {
+        "text": "Ma gandesc ca nici alimente nu mai AIDoamne ai grija de ei",
+        "true": "Fear",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Sa le Nuti asuma meritul pentru munca lor stimate",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Mitropolitul <|PERSON|> al Greciei sa vaccinat Tacere de moa",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Cel mai bun prezentator si cel mai pasnic <|PERSON|> ❤",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "O lecție de viata o femeie puternica Respect",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Condamn ferm intervenția brutală a Jandarmeriei puternic dis",
+        "true": "Anger",
+        "predicted": "Anger",
+        "correct": true
+      },
+      {
+        "text": "Cifră neverificabilă dată de niște autorități recunoscute de",
+        "true": "Anger",
+        "predicted": "Fear",
+        "correct": false
+      },
+      {
+        "text": "<|PERSON|> condamnat la 5 ani pentru corupere de minori și p",
+        "true": "Anger",
+        "predicted": "Joy",
+        "correct": false
+      },
+      {
+        "text": "UN PLOIEŞTEAN A MURIT DUPĂ O BĂTAIE CU AGENTUL DE PAZĂ LA CA",
+        "true": "Anger",
+        "predicted": "Surprise",
+        "correct": false
+      },
+      {
+        "text": "Mai are Romania sanse sa se ridice din groapa in care se afl",
+        "true": "Disgust",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "<|PERSON|> sal odihneasca in pace Cultura te inaltate lumine",
+        "true": "Joy",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "mie tot de asta îmi e frică Sunt curios sa vad cum vor preze",
+        "true": "Disgust",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "UPDATE Cel puţin 28 de morţi şi peste 70 de răniţi în urma u",
+        "true": "Fear",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "Întradevăr este nu spun că nu dar habar nu ai ce tunuri se t",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "HALUCINANT Muncitorii romani au pierdut “CARTITA” de la gazo",
+        "true": "Anger",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "a venit un mos sa se certe cu ai mei de lemne si pământ fix ",
+        "true": "Anger",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Felicitari ai luptat dar ai frumoase rezultate nu uita ca bu",
+        "true": "Joy",
+        "predicted": "Joy",
+        "correct": true
+      },
+      {
+        "text": "Tânăr din Iași găsit mort întrun șanț la 2 zile după dispari",
+        "true": "Anger",
+        "predicted": "The",
+        "correct": false
+      },
+      {
+        "text": "O deosebita onoare sa putem viziona acest podcast de inalta ",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Adio poluare in Bucureşti Primăria a demarat aspirarea bulev",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      },
+      {
+        "text": "Furtuni ploi torenţiale şi grindină în toată ţara în următoa",
+        "true": "Fear",
+        "predicted": "Fear",
+        "correct": true
+      },
+      {
+        "text": "O voce divina Un suflet mare și nobil",
+        "true": "Joy",
+        "predicted": "Please",
+        "correct": false
+      }
+    ]
+  }
+]

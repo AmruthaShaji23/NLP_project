@@ -1,0 +1,4 @@
+Model,Language,Accuracy,Correct,Total
+Dolly-v2-12B,Hindi,22.2%,16,72
+Dolly-v2-12B,Dutch,34.5%,30,87
+Dolly-v2-12B,Romanian,38.2%,50,131

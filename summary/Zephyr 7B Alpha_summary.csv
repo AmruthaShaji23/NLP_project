@@ -1,0 +1,4 @@
+Model,Language,Accuracy,Correct,Total
+Zephyr 7B Alpha,Hindi,52.8%,38,72
+Zephyr 7B Alpha,Dutch,69.0%,60,87
+Zephyr 7B Alpha,Romanian,64.1%,84,131
